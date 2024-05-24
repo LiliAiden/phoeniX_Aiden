@@ -2,7 +2,7 @@
 `include "phoeniX.v"
 
 `ifndef FIRMWARE
-    `define FIRMWARE "Dhrystone/dhrystone_firmware.hex"
+    `define FIRMWARE "Software\\User_Codes\\integerRoot\\integerRoot_firmware.hex"
 `endif /*FIRMWARE*/
 
 `ifndef START_ADDRESS
